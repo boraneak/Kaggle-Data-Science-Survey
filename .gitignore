@@ -1,0 +1,13 @@
+# --- Environment & Tooling ---
+.venv/
+.python-version
+
+# --- Jupyter Notebook Cache ---
+.ipynb_checkpoints/
+
+# --- Python System Bloat ---
+__pycache__/
+*.py[cod]
+
+# --- OS Clutter ---
+.DS_Store
