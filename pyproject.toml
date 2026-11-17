@@ -1,7 +1,7 @@
 [project]
 name = "kaggle-data-science-survey"
 version = "0.1.0"
-description = "Add your description here"
+description = "Exploratory analysis of the Kaggle 2021 Data Science Survey"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
